@@ -1,4 +1,3 @@
-# app/routes.py
 from fastapi import APIRouter, HTTPException
 from app.utils import extraer_datos_crm
 from app.automation import procesar_frontera
